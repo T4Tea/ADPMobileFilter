@@ -1,3 +1,7 @@
+[Adblock Plus 2.0]
+! title: ADP Mobile Filter
+! Version: 20180716
+! Expires: 7 days
 ||p1.ifengimg.com/fm/js/ifengad/01/fm-ad.js$script
 ||as1.m.hao123.com/bwofcvxcvzdec.js$script
 ||liushuba.com/files/article/html/gle.js$script
