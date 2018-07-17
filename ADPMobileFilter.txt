@@ -38,6 +38,7 @@ www.qiushibaike.com##.newLickArticle
 www.qiushibaike.com##.gif.item
 www.qiushibaike.com##.news.item
 www.qiushibaike.com##.media.item
+www.qiushibaike.com##.banner
 m.qidian.com##.jsDownloadLink
 m.qidian.com##.mybook-game-ad
 m.qidian.com##.module-ad
