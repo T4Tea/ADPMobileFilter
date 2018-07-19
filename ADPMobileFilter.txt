@@ -39,6 +39,7 @@
 ||liushuba.com/h5/wap/sort.js$script
 ||81xsw.com/*$popup
 ||longtanxs.com^$innerscript
+||bdimg.com/static/wiseindex/js/lib/invoke/component/firstCard*.js$script
 ||baidu.com/newspage/api/getadsdata*$script
 ||feed.baidu.com/feed/api/*$script
 baidu.com##div#index-card > div.blank-frame
