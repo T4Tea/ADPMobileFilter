@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! title: ADP Mobile Filter
-! Version: 20180717
+! Version: 20180719
 ! Expires: 7 days
 ||p1.ifengimg.com/fm/js/ifengad/01/fm-ad.js$script
 ||as1.m.hao123.com/bwofcvxcvzdec.js$script
@@ -26,6 +26,15 @@
 ||daima1.18tzx.com/*
 ||xpe.cxaerp.com/*
 ||m.foumm.com/*
+||user.tiankongzudui.com:4438/*
+||zmj.guanqinjie.cn:4451/*
+||daima.mubite.cn:4450/*
+||awqsaged.cn/*
+||09mk.cn/*
+||sysapr.cn/*
+||ads8.com/*
+||wegwj.cn/*
+||ienkdago.cn/*
 ||liushuba.com/h5/wap/top.js$script
 ||liushuba.com/h5/wap/sort.js$script
 ||81xsw.com/*$popup
