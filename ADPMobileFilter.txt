@@ -40,7 +40,8 @@
 ||81xsw.com/*$popup
 ||longtanxs.com^$innerscript
 ||g.163.com/ur*$script
-||126.net/f2e/wap/touch_article_2016/ssr_trunk/dist/images/glod_package_minfy.png$image
+||*/f2e/wap/touch_article_2016/ssr_trunk/dist/images/glod_package_minfy.png$image
+||*/f2e/wap/touch_comment/images/downloadapp.png$image
 ||163.com/data/d/iosTracking/*$script
 ||163.com/service-worker*.js$script
 ||163.com/touch/behavior.html*$xmlhttprequest
