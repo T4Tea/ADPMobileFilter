@@ -41,7 +41,6 @@
 ||longtanxs.com^$innerscript
 ||g.163.com/ur*$script
 ||126.net/f2e/wap/touch_article_2016/ssr_trunk/dist/images/glod_package_minfy.png$image
-||163.com/api/v1/products/*/threads/*/comments/newList*$script
 ||163.com/data/d/iosTracking/*$script
 ||163.com/service-worker*.js$script
 ||163.com/touch/behavior.html*$xmlhttprequest
@@ -60,6 +59,7 @@ baidu.com##div#index-card > div.blank-frame
 163.com##.a_adtemp
 163.com##.big_boom
 163.com##.doc-footer-wrapper
+163.com##.more-client
 douyu.com##.summer_enter
 aileleba.com##.xslink
 m.76wx.com##br:nth-of-type(1),br:nth-of-type(2)
