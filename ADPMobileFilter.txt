@@ -27,6 +27,7 @@
 ||bdstatic.com/*/push.js$script
 ||bdstatic.com/*/static/landing-wise/js/share*.js$script
 ||bdstatic.com/*/static/wiseindex/js/lib/invoke/component/firstCard*.js$script
+||boardx.huanqiu.com/*$script
 ||bookdown.com.cn/js/wap.js$script
 ||by.mbai.cn/*$script
 ||cnzz.com/*$script
@@ -53,6 +54,8 @@
 ||longtanxs.com^$innerscript
 ||m.foumm.com/*
 ||m.pieaa.com/*
+||mbai.cn/*$script
+||mps.weekslw.com/*$script
 ||nex.163.com/q*$script
 ||p1.ifengimg.com/fm/js/ifengad/01/fm-ad.js$script
 ||pos.baidu.com*$script
@@ -62,7 +65,9 @@
 ||sysapr.cn/*
 ||tanx.com/*$script
 ||user.tiankongzudui.com:4438/*
+||uu.zeverdg.com/*$script
 ||wegwj.cn/*
+||wjxcdn.com/*$script
 ||xpe.cxaerp.com/*
 ||yunlaige.com/configs/article/czx*.js$script
 ||yunlaige.com/configs/article/fzx*.js$script
