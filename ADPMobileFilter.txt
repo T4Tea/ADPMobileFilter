@@ -32,6 +32,7 @@
 ||by.mbai.cn/*$script
 ||cnzz.com/*$script
 ||cpro.baidustatic.com/*$script
+||cuoas.com/*$script
 ||daima.mubite.cn:4450/*
 ||daima1.18tzx.com/*
 ||e.dunmm.com/*
@@ -48,6 +49,7 @@
 ||ienkdago.cn/*
 ||images.pagechoice.net/data/motu_wap/mob.js$script
 ||jjx.xjtxcj.com/*
+||js.users.51.la/*.js$script
 ||liushuba.com/files/article/html/gle.js$script
 ||liushuba.com/h5/wap/sort.js$script
 ||liushuba.com/h5/wap/top.js$script
