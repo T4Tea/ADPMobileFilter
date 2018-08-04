@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! title: ADP Mobile Filter [21080728]
-! Version: 20180728
-! Expires: 1 days
+! title: ADP Mobile Filter [21080804]
+! Version: 20180804
+! Expires: 7 days
 ||*/f2e/wap/touch_article_2016/ssr_trunk/dist/images/glod_package_minfy.png$image
 ||*/f2e/wap/touch_comment/images/downloadapp.png$image
 ||09mk.cn/*
@@ -12,15 +12,33 @@
 ||163.com/wap/special/*/wap*.js$xmlhttprequest
 ||163.com/wap/special/*/wap*.js*$script
 ||163.com/wap/special/article_cooper_piapia*$script
-||37.sinawap.com*$script
+||17.huanqiu.com/*.js$script
+||360buyimg.com/*$script
+||36900yh.com/*$script
+||37.sinawap.com/*$script
+||58.com/adsys/*$script
+||58.com/api/advertisement*$script
+||58.com/js/58appLaunch.js*$script
+||58.com/js/callWbApp_min.js$script
+||58.com/js/gjad_show.js*$script
+||58.com/js/launchPop.js$script
+||58cdn.com.cn/crop/ecom/m/tcb/ideaShow/main*js$script
+||58cdn.com.cn/olympia/js/conf/boot_invoke_config*.js$script
+||58cdn.com.cn/resource/xxzl/tracker/*$script
+||58cdn.com.cn/zt/appdown/js/m_invoke_app.js*$script
 ||76wx.com/scripts/common.js$script
 ||81xsw.com/*$popup
 ||ad.wang502.com/*$script
+||adpai.thepaper.cn/*$script
 ||ads.exoclick.com/*$script
 ||ads8.com/*
 ||adserver.juicyads.com/*$script
+||adshow.58.com/*$script
+||ad-survey.com/*$script
+||ae.bdstatic.com/*$script
 ||analytics.163.com/ntes.js$script
 ||as1.m.hao123.com/bwofcvxcvzdec.js$script
+||assets.258ydh.com/ss/sst.js$script
 ||awqsaged.cn/*
 ||baidu.com/newspage/api/getadsdata*$script
 ||bdimg.com/static/wiseindex/js/lib/invoke/component/firstCard*.js$script
@@ -30,63 +48,106 @@
 ||boardx.huanqiu.com/*$script
 ||bookdown.com.cn/js/wap.js$script
 ||by.mbai.cn/*$script
+||cdn.dragonstatic.com/*$script
 ||cnzz.com/*$script
 ||cpro.baidustatic.com/*$script
+||cpu.baidu.com/*$script
 ||cuoas.com/*$script
-||daima.mubite.cn:4450/*
+||daima.mubite.cn*
 ||daima1.18tzx.com/*
+||dup.baidustatic.com/*$script
 ||e.dunmm.com/*
 ||e.tuoaa.com/*
+||e.vouky.com/*$script
 ||feed.baidu.com/feed/api/*$script
 ||fenrs.com/*$script
+||file.thepaper.cn/wap/v3/js/slick.min.js*$script
 ||fouas.com/*$script
 ||foumm.com/3066.html*$script
 ||g.ousns.net/*$script
+||ganji.com/ajax.php?dir=house&module=MiniQrCode*
+||ganjistatic1.com/att/project/touch/h5_log/tracker*js$script
+||ganjistatic1.com/ng/app/zp/page/milan/common/list_page*js$script
+||ganjistatic1.com/ng/app/zp/page/milan/index_page*js$script
+||ganjistatic1.com/ng/com/mobile/lib/log/tracker*js$script
+||ganjistatic1.com/ng/com/mobile/lib/underscore/underscore*js$script
+||ganjistatic1.com/ng/com/mobile/lib/widget/widget*js$script
+||ganjistatic1.com/ng/com/mobile/page/milan/base_page*js$script
+||ganjistatic1.com/ng/com/mobile/page/misc/go_ganji_app/*js$script
 ||google-analytics.com/analytics.js$script
 ||googlesyndication.com/pagead/*$script
 ||h.aufou.cn/*/*/*.*$image
-||hm.baidu.com/hm.js*$script
+||hm.baidu.com/*$script
+||ienkdaged.cn/*$script
 ||ienkdago.cn/*
+||ifeng.com^$inline-script
+||ifengimg.com/*/callNewsApp.min.js$script
+||ifengimg.com/pdt/cfg/ad/js/*$script
 ||images.pagechoice.net/data/motu_wap/mob.js$script
+||ipengtai.huanqiu.com/resource/js/base_mobile.js$script
 ||jjx.xjtxcj.com/*
 ||js.users.51.la/*.js$script
 ||liushuba.com/files/article/html/gle.js$script
 ||liushuba.com/h5/wap/sort.js$script
 ||liushuba.com/h5/wap/top.js$script
+||longtanxs.com/js/baisu.js$script
+||longtanxs.com/js/wap.js$script
 ||longtanxs.com^$innerscript
 ||m.foumm.com/*
 ||m.pieaa.com/*
 ||mbai.cn/*$script
 ||mps.weekslw.com/*$script
+||news.58.com/getrolltom*$script
 ||nex.163.com/q*$script
+||open.weibo.com/wblinks.js*$script
 ||p1.ifengimg.com/fm/js/ifengad/01/fm-ad.js$script
+||parking.zunmi.cn/*$document
+||people.cn/*/js/ad_list.js*$script
+||pmm.people.com.cn/main/s*&js=ie$script
 ||pos.baidu.com*$script
 ||push.zhanzhang.baidu.com/push.js$script
+||qzs.qq.com/qzone/biz/res/*.js$script
 ||renren.maoyun.tv/g3/tool*.js$script
+||res.onvshen.com/script/gallery.mobile.js$script
+||sina.cn/api/v3/get*$script
+||sina.cn/cm/sinaads*.js$script
+||ssp.zf313.com/adinfo.htm*$script
 ||statcounter.com/*$script
+||suez.baidu.com/dmas*$script
 ||sysapr.cn/*
 ||tanx.com/*$script
 ||user.tiankongzudui.com:4438/*
 ||uu.zeverdg.com/*$script
-||wegwj.cn/*
+||wangkuai.net/hm.php*$script
+||webterren.com/*$script
+||wgewj.cn/*$script
 ||wjxcdn.com/*$script
+||woxian.top/*$script
+||wxbgf.top/*$script
+||xiukeshop.com/kgad/*$script
 ||xpe.cxaerp.com/*
+||xtjjybt.com/*$script
+||xtxt99.com/*$script
 ||yunlaige.com/configs/article/czx*.js$script
 ||yunlaige.com/configs/article/fzx*.js$script
 ||yunlaige.com/configs/article/hfgg.js$script
 ||yunlaige.com/configs/article/tcgg.js$script
 ||yunlaige.com/js/wap.js$script
 ||zeiaa.com/3066.html*$script
+||zlongad.com/*$script
 ||zmj.guanqinjie.cn:4451/*
 ||zmzjstu.com/g3/tool*.js$script
 ||zz.bdstatic.com/linksubmit/push.js$script
 163.com##.a_adtemp, .big_boom, .doc-footer-wrapper, .more-client
+58.com##.call-app-content
 aavbook.club##.bottom, .alert-xz, .breadcrumb +div, div[boxid="heiyanMobileIndexXinshu"], div[boxid="heiyanMobileIndexXinshu"] +div, .footer > div:first-child > a:nth-last-of-type(n+2)
 aileleba.com##.xslink
 baidu.com##div#index-card > div.blank-frame
-douyu.com##.summer_enter
+ganji.com###nResume,.detail_tg_download,.house_adv_promotion,.marquee,.sw-ads,.topInvokeApp
 m.76wx.com##br:nth-of-type(1),br:nth-of-type(2)
 m.hao123.com##.bd, .cn_oneline, .imglistWp, .midline
 m.qidian.com##.jsDownloadLink, .module-ad, .mybook-game-ad
 m.weibo.cn##.appTips, .OpenInAppButton
+people.cn##.m-page-tip
 qiushibaike.com##.banner, .gif.item, .itemOther, .media.item, .newLickArticle, .newRecommend, .news.item
+thepaper.cn###ad1,#moblink_morecomm,#moblink_moreread
