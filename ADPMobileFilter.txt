@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! title: ADP Mobile Filter [21080804]
-! Version: 20180804
+! title: ADP Mobile Filter [21080921]
+! Version: 20180921
 ! Expires: 7 days
 ||*/f2e/wap/touch_article_2016/ssr_trunk/dist/images/glod_package_minfy.png$image
 ||*/f2e/wap/touch_comment/images/downloadapp.png$image
