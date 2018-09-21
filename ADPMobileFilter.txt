@@ -138,6 +138,17 @@
 ||zmj.guanqinjie.cn:4451/*
 ||zmzjstu.com/g3/tool*.js$script
 ||zz.bdstatic.com/linksubmit/push.js$script
+||258pcf.com^$script
+||5321pf.com^$script
+||anhuilitian.net^$script
+||borsendental.com^$script
+||cdn.jsdelivr.net/opensug/1.1.2/opensug.js$script
+||cnrghj.cn^$script
+||fenvm.com^$script
+||wangketuan.com^$script
+||www.sonimei.cn/qipai.jpg$image
+||yzjlsb.com^$script
+||zhiyaspa.com^$script
 163.com##.a_adtemp, .big_boom, .doc-footer-wrapper, .more-client
 58.com##.call-app-content
 aavbook.club##.bottom, .alert-xz, .breadcrumb +div, div[boxid="heiyanMobileIndexXinshu"], div[boxid="heiyanMobileIndexXinshu"] +div, .footer > div:first-child > a:nth-last-of-type(n+2)
