@@ -195,5 +195,5 @@ m.hao123.com##.bd, .cn_oneline, .imglistWp, .midline
 m.qidian.com##.jsDownloadLink, .module-ad, .mybook-game-ad
 m.weibo.cn##.appTips, .OpenInAppButton
 people.cn##.m-page-tip
-qiushibaike.com##.banner, .gif.item, .itemOther, .media.item, .newLickArticle, .newRecommend, .news.item
+qiushibaike.com##.banner, .gif.item, .media.item, .newLickArticle, .newRecommend, .news.item
 thepaper.cn###ad1,#moblink_morecomm,#moblink_moreread
