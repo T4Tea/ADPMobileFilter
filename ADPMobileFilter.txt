@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! title: ADP Mobile Filter [21080922]
-! Version: 20180922
+! title: ADP Mobile Filter [21081126]
+! Version: 20181126
 ! Expires: 7 days
 ||*/click.php*$script
 ||*/f2e/wap/touch_article_2016/ssr_trunk/dist/images/glod_package_minfy.png$image
@@ -38,6 +38,7 @@
 ||81xsw.com/*$popup
 ||ad.wang502.com/*$script
 ||addthis.com^$script
+||adexchangemachine.com^$script
 ||adpai.thepaper.cn/*$script
 ||ads.exoclick.com/*$script
 ||ads8.com/*
@@ -52,6 +53,7 @@
 ||awqsaged.cn/*
 ||baidu.com/newspage/api/getadsdata*$script
 ||bdimg.com/static/wiseindex/js/lib/invoke/component/firstCard*.js$script
+||bdimg.share.baidu.com/static/api/js/share.js*$script
 ||bdstatic.com/*/push.js$script
 ||bdstatic.com/*/static/landing-wise/js/share*.js$script
 ||bdstatic.com/*/static/wiseindex/js/lib/invoke/component/firstCard*.js$script
@@ -77,12 +79,16 @@
 ||e.tuoaa.com/*
 ||e.vouky.com/*$script
 ||e.zkwsdf.com/*$script
+||exosrv.com$script
+||fbcdn2.com/script/firefox.js$script
 ||feed.baidu.com/feed/api/*$script
 ||fenrs.com/*$script
 ||fenvm.com^$script
 ||file.thepaper.cn/wap/v3/js/slick.min.js*$script
 ||fouas.com/*$script
 ||foumm.com/3066.html*$script
+||frtyj.com^$image
+||frtyj.com^$script
 ||g.ousns.net/*$script
 ||ganji.com/ajax.php?dir=house&module=MiniQrCode*
 ||ganjistatic1.com/att/project/touch/h5_log/tracker*js$script
@@ -104,11 +110,13 @@
 ||ifengimg.com/*/callNewsApp.min.js$script
 ||ifengimg.com/pdt/cfg/ad/js/*$script
 ||images.pagechoice.net/data/motu_wap/mob.js$script
+||imglnka.com^$image
 ||ipengtai.huanqiu.com/resource/js/base_mobile.js$script
 ||j.qiqivv.com^
 ||jc.anhuilitian.net^
 ||jjx.xjtxcj.com/*
 ||js.users.51.la/*.js$script
+||juicyads.com^$script
 ||jyhwt.cn^
 ||jyhwt.cn^$script
 ||kuangtuiguoo18888.com^
@@ -132,10 +140,12 @@
 ||news.58.com/getrolltom*$script
 ||nex.163.com/q*$script
 ||njmpacc.com^$script
+||onclickmega.com^$script
 ||open.weibo.com/wblinks.js*$script
 ||p1.ifengimg.com/fm/js/ifengad/01/fm-ad.js$script
 ||parking.zunmi.cn/*$document
 ||people.cn/*/js/ad_list.js*$script
+||plug.plufdsa.com^$script
 ||pmm.people.com.cn/main/s*&js=ie$script
 ||pos.baidu.com*$script
 ||push.zhanzhang.baidu.com/push.js$script
@@ -147,6 +157,8 @@
 ||sina.cn/cm/sinaads*.js$script
 ||ssp.zf313.com/adinfo.htm*$script
 ||statcounter.com/*$script
+||static.geetest.com/static/tools/gt.js$script
+||stats.chinaz.com/gj_g/*$script
 ||suez.baidu.com/dmas*$script
 ||sysapr.cn/*
 ||tanx.com/*$script
