@@ -165,6 +165,7 @@
 ||tx.lwinl.com^$inline-script
 ||user.tiankongzudui.com:4438/*
 ||uu.zeverdg.com/*$script
+||vm.gtimg.cn/tencentvideo/script/module/followSeries.js$script
 ||wangketuan.com^$script
 ||wangkuai.net/hm.php*$script
 ||webterren.com/*$script
