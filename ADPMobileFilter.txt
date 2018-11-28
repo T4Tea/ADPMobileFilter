@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! title: ADP Mobile Filter [21081126]
-! Version: 20181126
+! title: ADP Mobile Filter [21081128]
+! Version: 20181128
 ! Expires: 7 days
 ||*/click.php*$script
 ||*/f2e/wap/touch_article_2016/ssr_trunk/dist/images/glod_package_minfy.png$image
@@ -61,6 +61,7 @@
 ||borsendental.com^$script
 ||btlibrary.xyz/cdn-cgi/scripts/*/cloudflare-static/email-decode.min.js$script
 ||by.mbai.cn/*$script
+||cbjs.baidu.com/js/m.js$script
 ||cdn.dragonstatic.com/*$script
 ||cdn.hivps.xyz^
 ||cdn.hivps.xyz^$script
@@ -68,6 +69,7 @@
 ||chiuhua.com.cn^$script
 ||cnrghj.cn^$script
 ||cnzz.com/*$script
+||cnzz.com^$script
 ||cpro.baidustatic.com/*$script
 ||cpu.baidu.com/*$script
 ||cuoas.com/*$script
@@ -80,6 +82,8 @@
 ||e.vouky.com/*$script
 ||e.zkwsdf.com/*$script
 ||exosrv.com$script
+||exosrv.com^$image
+||exosrv.com^$script
 ||fbcdn2.com/script/firefox.js$script
 ||feed.baidu.com/feed/api/*$script
 ||fenrs.com/*$script
@@ -89,6 +93,7 @@
 ||foumm.com/3066.html*$script
 ||frtyj.com^$image
 ||frtyj.com^$script
+||fzb01.qiushibaike.com^$script
 ||g.ousns.net/*$script
 ||ganji.com/ajax.php?dir=house&module=MiniQrCode*
 ||ganjistatic1.com/att/project/touch/h5_log/tracker*js$script
@@ -104,6 +109,7 @@
 ||googletagmanager.com/gtag/js*$script
 ||h.aufou.cn/*/*/*.*$image
 ||hm.baidu.com/*$script
+||hm.baidu.com^$script
 ||ienkdaged.cn/*$script
 ||ienkdago.cn/*
 ||ifeng.com^$inline-script
@@ -115,6 +121,8 @@
 ||j.qiqivv.com^
 ||jc.anhuilitian.net^
 ||jjx.xjtxcj.com/*
+||js.meitulu.com/css/mshowgg.js$script
+||js.meitulu.com/css/showgg.js$script
 ||js.users.51.la/*.js$script
 ||juicyads.com^$script
 ||jyhwt.cn^
@@ -150,6 +158,7 @@
 ||pos.baidu.com*$script
 ||push.zhanzhang.baidu.com/push.js$script
 ||qiaopiguniang.com^
+||qiaopiguniang.com^$script
 ||qzs.qq.com/qzone/biz/res/*.js$script
 ||renren.maoyun.tv/g3/tool*.js$script
 ||res.onvshen.com/script/gallery.mobile.js$script
@@ -162,6 +171,7 @@
 ||suez.baidu.com/dmas*$script
 ||sysapr.cn/*
 ||tanx.com/*$script
+||theta.sogoucdn.com/wap/js/wp.js$script
 ||tx.lwinl.com^$inline-script
 ||user.tiankongzudui.com:4438/*
 ||uu.zeverdg.com/*$script
@@ -173,7 +183,6 @@
 ||wjxcdn.com/*$script
 ||woxian.top/*$script
 ||wtdtjs.com^$script
-||www.qiaopiguniang.com^$script
 ||www.sonimei.cn/qipai.jpg$image
 ||wxbgf.top/*$script
 ||xhtd.99hg.wang^$script
