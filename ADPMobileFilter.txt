@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! title: ADP Mobile Filter [21081128]
-! Version: 20181128
+! title: ADP Mobile Filter [21081129]
+! Version: 20181129
 ! Expires: 7 days
 ||*/click.php*$script
 ||*/f2e/wap/touch_article_2016/ssr_trunk/dist/images/glod_package_minfy.png$image
@@ -39,6 +39,7 @@
 ||ad.wang502.com/*$script
 ||addthis.com^$script
 ||adexchangemachine.com^$script
+||ado.pro-market.net^$script
 ||adpai.thepaper.cn/*$script
 ||ads.exoclick.com/*$script
 ||ads8.com/*
@@ -48,7 +49,10 @@
 ||ae.bdstatic.com/*$script
 ||analytics.163.com/ntes.js$script
 ||anhuilitian.net^$script
+||apis.google.com^$script
 ||as1.m.hao123.com/bwofcvxcvzdec.js$script
+||asset.pagefair.com^$script
+||asset.pagefair.net^$script
 ||assets.258ydh.com/ss/sst.js$script
 ||awqsaged.cn/*
 ||baidu.com/newspage/api/getadsdata*$script
@@ -75,6 +79,8 @@
 ||cuoas.com/*$script
 ||daima.mubite.cn*
 ||daima1.18tzx.com/*
+||disqus.com^$script
+||disquscdn.com^$script
 ||dugesheying.com^$script
 ||dup.baidustatic.com/*$script
 ||e.dunmm.com/*
@@ -106,6 +112,7 @@
 ||ganjistatic1.com/ng/com/mobile/page/misc/go_ganji_app/*js$script
 ||google-analytics.com/analytics.js$script
 ||googlesyndication.com/pagead/*$script
+||googlesyndication.com^$script
 ||googletagmanager.com/gtag/js*$script
 ||h.aufou.cn/*/*/*.*$image
 ||hm.baidu.com/*$script
@@ -157,11 +164,14 @@
 ||pmm.people.com.cn/main/s*&js=ie$script
 ||pos.baidu.com*$script
 ||push.zhanzhang.baidu.com/push.js$script
+||pushbullet.com^$script
 ||qiaopiguniang.com^
 ||qiaopiguniang.com^$script
 ||qzs.qq.com/qzone/biz/res/*.js$script
 ||renren.maoyun.tv/g3/tool*.js$script
 ||res.onvshen.com/script/gallery.mobile.js$script
+||scorecardresearch.com^$script
+||secure.quantserve.com^$script
 ||sina.cn/api/v3/get*$script
 ||sina.cn/cm/sinaads*.js$script
 ||ssp.zf313.com/adinfo.htm*$script
@@ -170,6 +180,7 @@
 ||stats.chinaz.com/gj_g/*$script
 ||suez.baidu.com/dmas*$script
 ||sysapr.cn/*
+||tag.crsspxl.com^$script
 ||tanx.com/*$script
 ||theta.sogoucdn.com/wap/js/wp.js$script
 ||tx.lwinl.com^$inline-script
@@ -180,9 +191,12 @@
 ||wangkuai.net/hm.php*$script
 ||webterren.com/*$script
 ||wgewj.cn/*$script
+||widgets.outbrain.com^$script
 ||wjxcdn.com/*$script
 ||woxian.top/*$script
 ||wtdtjs.com^$script
+||www.apkmirror.com/wp-content/plugins/disqus-comment-system/public/js/comment_count.js*$script
+||www.apkmirror.com^$inline-script
 ||www.sonimei.cn/qipai.jpg$image
 ||wxbgf.top/*$script
 ||xhtd.99hg.wang^$script
