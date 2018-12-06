@@ -230,7 +230,7 @@
 ##.banner_ad
 ||image.sozi.cn/images/tj/zt.gif$image
 ||image.sozi.cn/images/tj/zitj.gif$image
-||yihu.s06th.cn^$script
+||yihu.s06th.cn^
 163.com##.a_adtemp, .big_boom, .doc-footer-wrapper, .more-client
 58.com##.call-app-content
 aavbook.club##.bottom, .alert-xz, .breadcrumb +div, div[boxid="heiyanMobileIndexXinshu"], div[boxid="heiyanMobileIndexXinshu"] +div, .footer > div:first-child > a:nth-last-of-type(n+2)
