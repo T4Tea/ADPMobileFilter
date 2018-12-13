@@ -1,7 +1,8 @@
 [Adblock Plus 2.0]
-! title: ADP Mobile Filter [21081206]
-! Version: 20181206
+! title: ADP Mobile Filter [21081213]
+! Version: 20181213
 ! Expires: 7 days
+##.banner_ad
 ||*/click.php*$script
 ||*/f2e/wap/touch_article_2016/ssr_trunk/dist/images/glod_package_minfy.png$image
 ||*/f2e/wap/touch_comment/images/downloadapp.png$image
@@ -10,6 +11,7 @@
 ||*/js/qiguo.js$script
 ||*/js/wap.js$script
 @@||m.yunlaige.com/js/wap.js$script
+||*/page/ad/*
 ||09mk.cn/*
 ||163.com/data/d/iosTracking/*$script
 ||163.com/service-worker*.js$script
@@ -52,8 +54,7 @@
 ||anhuilitian.net^$script
 ||apis.google.com^$script
 ||as1.m.hao123.com/bwofcvxcvzdec.js$script
-||asset.pagefair.com^$script
-||asset.pagefair.net^$script
+||asset.pagefair*$script
 ||assets.258ydh.com/ss/sst.js$script
 ||awqsaged.cn^
 ||baidu.com/newspage/api/getadsdata*$script
@@ -69,9 +70,9 @@
 ||cbjs.baidu.com/js/m.js$script
 ||cdn.dragonstatic.com^$script
 ||cdn.hivps.xyz^
-||cdn.hivps.xyz^$script
 ||cdn.jsdelivr.net/opensug/1.1.2/opensug.js$script
 ||chiuhua.com.cn^$script
+||cms-bucket.nosdn.127.net/2018/12/10/98f2ac279e094462a62860e002c47478.jpeg$image
 ||cnrghj.cn^$script
 ||cnzz.com^$script
 ||cpro.baidustatic.com^$script
@@ -79,6 +80,7 @@
 ||cuoas.com^$script
 ||daima.mubite.cn^
 ||daima1.18tzx.com^
+||daima123.cc^
 ||disqus.com^$script
 ||disquscdn.com^$script
 ||dugesheying.com^$script
@@ -87,9 +89,7 @@
 ||e.tuoaa.com^$script
 ||e.vouky.com^$script
 ||e.zkwsdf.com^$script
-||exosrv.com^$script
-||exosrv.com^$image
-||exosrv.com^$script
+||exosrv.com^
 ||fbcdn2.com/script/firefox.js$script
 ||feed.baidu.com/feed/api/*$script
 ||fenrs.com^$script
@@ -97,8 +97,7 @@
 ||file.thepaper.cn/wap/v3/js/slick.min.js*$script
 ||fouas.com/*$script
 ||foumm.com/3066.html*$script
-||frtyj.com^$image
-||frtyj.com^$script
+||frtyj.com^
 ||fzb01.qiushibaike.com^$script
 ||g.ousns.net^$script
 ||ganji.com/ajax.php?dir=house&module=MiniQrCode*
@@ -111,51 +110,60 @@
 ||ganjistatic1.com/ng/com/mobile/page/milan/base_page*js$script
 ||ganjistatic1.com/ng/com/mobile/page/misc/go_ganji_app/*js$script
 ||google-analytics.com/analytics.js$script
-||googlesyndication.com/pagead/*$script
 ||googlesyndication.com^$script
 ||googletagmanager.com/gtag/js*$script
 ||h.aufou.cn/*/*/*.*$image
+||hjues.com^
 ||hm.baidu.com^$script
 ||ienkdaged.cn^$script
 ||ienkdago.cn/*
 ||ifeng.com^$inline-script
 ||ifengimg.com/*/callNewsApp.min.js$script
 ||ifengimg.com/pdt/cfg/ad/js/*$script
+||image.sozi.cn/images/tj/zitj.gif$image
+||image.sozi.cn/images/tj/zt.gif$image
 ||images.pagechoice.net/data/motu_wap/mob.js$script
 ||imglnka.com^$image
 ||ipengtai.huanqiu.com/resource/js/base_mobile.js$script
 ||j.qiqivv.com^
 ||jc.anhuilitian.net^
+||jiudianhudong.com^
 ||jjx.xjtxcj.com^
 ||js.meitulu.com/css/mshowgg.js$script
 ||js.meitulu.com/css/showgg.js$script
 ||js.users.51.la^$script
 ||juicyads.com^$script
 ||jyhwt.cn^
-||jyhwt.cn^$script
 ||kuangtuiguoo18888.com^
-||kuangtuiguoo18888.com^$inline-script
 ||legou361.com^$script
 ||liushuba.com/files/article/html/gle.js$script
 ||liushuba.com/h5/wap/sort.js$script
 ||liushuba.com/h5/wap/top.js$script
 ||longtanxs.com/js/baisu.js$script
 ||longtanxs.com^$innerscript
+||m.81xsw.com/scripts/common.js$script
 ||m.edo5.com^
-||m.edo5.com^$xmlhttprequest
 ||m.foumm.com^
 ||m.lusrg.cn^$script
 ||m.nuxyz.cn^$script
 ||m.pieaa.com^
+||m.prwx.com/template/wap/script/common.js$script
+||m.woaidu.org/upload/xheditor/day_170321/201703210539357093.gif$image
+||m.xbanzhu.com/js/zhanxian1.js*$script
 ||mbai.cn^$script
+||mm.9fens.cn/images/bg.png$image
 ||mm323.com^$script
 ||mps.weekslw.com^$script
 ||mtqys.com^$xmlhttprequest
 ||news.58.com/getrolltom*$script
 ||nex.163.com/q*$script
 ||njmpacc.com^$script
+||oangp.com^
+||ocuf.pzuth.cn^
+||okwan.cn^
 ||onclickmega.com^$script
 ||open.weibo.com/wblinks.js*$script
+||p.gouwubang.com^
 ||p1.ifengimg.com/fm/js/ifengad/01/fm-ad.js$script
 ||parking.zunmi.cn/*$document
 ||people.cn/*/js/ad_list.js*$script
@@ -165,24 +173,27 @@
 ||push.zhanzhang.baidu.com/push.js$script
 ||pushbullet.com^$script
 ||qiaopiguniang.com^
-||qiaopiguniang.com^$script
 ||qzs.qq.com/qzone/biz/res/*.js$script
 ||renren.maoyun.tv/g3/tool*.js$script
 ||res.onvshen.com/script/gallery.mobile.js$script
 ||scorecardresearch.com^$script
 ||secure.quantserve.com^$script
+||sfxl.com.cn^
 ||sina.cn/api/v3/get*$script
 ||sina.cn/cm/sinaads*.js$script
 ||ssp.zf313.com/adinfo.htm*$script
 ||statcounter.com/*$script
 ||static.geetest.com/static/tools/gt.js$script
+||static.tianyancha.com/wap-require-js/*$image
 ||stats.chinaz.com/gj_g/*$script
 ||suez.baidu.com/dmas*$script
 ||sysapr.cn^
 ||tag.crsspxl.com^$script
 ||tanx.com^$script
 ||theta.sogoucdn.com/wap/js/wp.js$script
+||tu.jstucdn.com/g3/tool*$script
 ||tx.lwinl.com^$inline-script
+||url.3400.org/function-new.js$script
 ||user.tiankongzudui.com^
 ||uu.zeverdg.com^$script
 ||vm.gtimg.cn/tencentvideo/script/module/followSeries.js$script
@@ -194,44 +205,41 @@
 ||wjxcdn.com^$script
 ||woxian.top^$script
 ||wtdtjs.com^$script
+||ww1.sinaimg.cn/large/005BYqpggy1fxjclwyc1xg30hs04677p.jpg$image
 ||www.apkmirror.com/wp-content/plugins/disqus-comment-system/public/js/comment_count.js*$script
 ||www.apkmirror.com^$inline-script
+||www.ciliba.biz/Public/static/js/common-v2.js*$script
 ||www.sonimei.cn/qipai.jpg$image
+||www.sozi.cn/templets/sozi/js/js.js$script
+||wxbdfm.com^$script
 ||wxbgf.top^$script
+||xdlfkh.cn^
 ||xhtd.99hg.wang^$script
+||xiaobingw.cn^$script
 ||xiaohui*.cn^
-||xiaohui*.cn^$script
 ||xiukeshop.com/kgad/*$script
 ||xlsschina15.net^
-||xlsschina15.net^$script
 ||xpe.cxaerp.com^
 ||xtjjybt.com^$script
 ||xtxt99.com^$script
+||yihu.s06th.cn^
 ||ytsyyey.com/s.php^
 ||yunlaige.com/configs/article/czx*.js$script
 ||yunlaige.com/configs/article/fzx*.js$script
 ||yunlaige.com/configs/article/hfgg.js$script
 ||yunlaige.com/configs/article/tcgg.js$script
+||ywadf.cn^$script
 ||yzjlsb.com^$script
 ||zeiaa.com/3066.html*$script
 ||zhiyaspa.com^$script
+||zhywyl.cn^
+||zklp.com.cn^
 ||zlongad.com^$script
 ||zmj.guanqinjie.cn^
 ||zmzjstu.com/g3/tool*.js$script
+||zp22.cn^
 ||zz.bdstatic.com/linksubmit/push.js$script
-||m.81xsw.com/scripts/common.js$script
-||m.prwx.com/template/wap/script/common.js$script
-||url.3400.org/function-new.js$script
-||www.ciliba.biz/Public/static/js/common-v2.js*$script
-||wxbdfm.com^$script
-||xiaobingw.cn^$script
-||www.sozi.cn/templets/sozi/js/js.js$script
-||ww1.sinaimg.cn/large/005BYqpggy1fxjclwyc1xg30hs04677p.jpg$image
-##.banner_ad
-||image.sozi.cn/images/tj/zt.gif$image
-||image.sozi.cn/images/tj/zitj.gif$image
-||yihu.s06th.cn^
-163.com##.a_adtemp, .big_boom, .doc-footer-wrapper, .more-client
+163.com##.a_adtemp,.ad_pannel,.banner-a,.big_boom,.doc-footer-wrapper,.fif_year_panel,.more-client
 58.com##.call-app-content
 aavbook.club##.bottom, .alert-xz, .breadcrumb +div, div[boxid="heiyanMobileIndexXinshu"], div[boxid="heiyanMobileIndexXinshu"] +div, .footer > div:first-child > a:nth-last-of-type(n+2)
 aileleba.com##.xslink
@@ -241,6 +249,8 @@ m.76wx.com##br:nth-of-type(1),br:nth-of-type(2)
 m.hao123.com##.bd, .cn_oneline, .imglistWp, .midline
 m.qidian.com##.jsDownloadLink, .module-ad, .mybook-game-ad
 m.weibo.cn##.appTips, .OpenInAppButton
+mm.9fens.cn###gdd
 people.cn##.m-page-tip
 qiushibaike.com##.banner, .gif.item, .media.item, .newLickArticle, .newRecommend, .news.item
+sina.cn###j_fixAppBtn,#random_da,.cm_ani_out.j_hwIcon,.j_lmt_w
 thepaper.cn###ad1,#moblink_morecomm,#moblink_moreread
