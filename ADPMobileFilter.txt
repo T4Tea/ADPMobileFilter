@@ -78,6 +78,10 @@
 !糗事百科
 ||fzb01.qiushibaike.com^$script
 
+!知乎
+||www.zhihu.com/api/v4/hot_recommendation*
+||www.zhihu.com/api/v4/answers/*/related-readings*
+
 !58同城
 ||58.com/adsys/*$script
 ||58.com/api/advertisement*$script
