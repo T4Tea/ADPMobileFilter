@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! title: ADP Mobile Filter [20190107]
-! Version: 20190107
+! title: ADP Mobile Filter [20190108]
+! Version: 20190108
 ! Expires: 7 days
 
 !i阻止规则
@@ -25,6 +25,7 @@
 ||bdstatic.com/*/static/wiseindex/js/lib/invoke/component/firstCard*.js$script
 ||gss0.bdstatic.com/*/assets/wise-vue/lib/*$script
 ||zz.bdstatic.com/linksubmit/push.js$script
+||news.baidu.com/z/resource/wap/wap_conf/conf.js*$script
 
 !谷歌
 ||pagead2.googlesyndication.com^
@@ -63,11 +64,21 @@
 ||analytics.163.com/ntes.js$script
 ||nex.163.com/q*$script
 
+!腾讯
+||btrace.qq.com/kvcollect*
+||jqmt.qq.com/cdn_dianjiliu.js*$script
+||pacaio.match.qq.com/xw/relate*$script
+||pingjs.qq.com^$script
+||btrace.video.qq.com/kvcollect*
+
 !新浪
 ||37.sinawap.com^$script
 ||sina.cn/api/v3/get*$script
 ||sina.cn/cm/sinaads*.js$script
 ||ww1.sinaimg.cn/large/005BYqpggy1fxjclwyc1xg30hs04677p.jpg$image
+||m.leju.com^$script
+||cmnt.sina.cn/aj/v2/counts*$script
+||sina.cn/wap/impress*$script
 
 !凤凰网
 ||ifeng.com^$inline-script
@@ -307,7 +318,7 @@
 !ii隐藏规则
 
 !通用
-##.banner_ad,.ad,.advertise,#ad
+##.banner_ad,.ad,.ads,.advertise,#ad,#ads,.swipe-backflow-container
 
 !网易
 163.com##.a_adtemp,.ad_pannel,.banner-a,.big_boom,.doc-footer-wrapper,.fif_year_panel,.more-client
