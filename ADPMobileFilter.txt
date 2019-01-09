@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! title: ADP Mobile Filter [20190108]
-! Version: 20190108
+! title: ADP Mobile Filter [20190109]
+! Version: 20190109
 ! Expires: 7 days
 
 !i阻止规则
@@ -92,6 +92,7 @@
 !知乎
 ||www.zhihu.com/api/v4/hot_recommendation*
 ||www.zhihu.com/api/v4/answers/*/related-readings*
+||pic1.zhimg.com/*|adx4.jpg
 
 !58同城
 ||58.com/adsys/*$script
@@ -325,6 +326,9 @@
 
 !新浪
 sina.cn###j_fixAppBtn,#random_da,.cm_ani_out.j_hwIcon,.j_lmt_w
+
+!知乎
+zhihu.com##.MBannerAd
 
 !微博
 m.weibo.cn##.appTips, .OpenInAppButton
