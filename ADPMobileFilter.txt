@@ -145,7 +145,8 @@
 ||*/js/wap.js$script
 ||*/page/ad/*
 ||*/scripts/axMob.js$script
-||09mk.cn/*
+||*/ts.php?hd=app*
+||09mk.cn^
 ||17.huanqiu.com^$script
 ||258pcf.com^$script
 ||360buyimg.com^$script
