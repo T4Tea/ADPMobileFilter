@@ -1,9 +1,14 @@
 [Adblock Plus 2.0]
-! title: ADP Mobile Filter [20190112]
-! Version: 20190112
+! title: ADP Mobile Filter [20190116]
+! Version: 20190116
 ! Expires: 7 days
 
 !i阻止规则
+
+!通用
+||*/ad-img/*.jpg$image
+||*/images/ad/*.jpg$image
+||*/showads.js$script
 
 !友盟+ cnzz
 ||cnzz.com^
@@ -33,13 +38,16 @@
 ||zz.bdstatic.com/linksubmit/push.js$script
 
 !谷歌
+||apis.google.com/_/scs/apps-static/_/js/*$script
+||apis.google.com/js/plusone.js$script
+||apis.google.com/js/rpc:shindig_random.js*$script
+||googleads.g.doubleclick.net^
+||google-analytics.com^
+||googletagmanager.com/gtag/js*$script
+||googletagservices.com^
 ||pagead2.googlesyndication.com^
 ||ssl.google-analytics.com^
-||google-analytics.com^
-||googletagservices.com^
 ||static.googleadsserving.cn^
-||googleads.g.doubleclick.net^
-||googletagmanager.com/gtag/js*$script
 
 !Doubleclick
 ||doubleclick.net^
@@ -86,10 +94,14 @@
 ||mjs.sinajs.cn/*/adTopBar.js*$script
 ||mjs.sinajs.cn/*/floatBar.js*$script
 ||mjs.sinajs.cn/*/safepage/*
-||sina.cn/*/impress*$script
 ||sax.sina.com.cn/newimpress*$script
+||sina.cn/*/impress*$script
 ||sina.cn/api/v3/get*$script
 ||sina.cn/cm/sinaads*.js$script
+||sinajs.cn/open/analytics/js/suda.js$script
+||sinajs.cn/open/api/js/wb.js$script
+||sinajs.cn/open/widget/js/widget/show.js*$script
+||sinajs.cn/STK/js/gaea*.js*$script
 ||ww1.sinaimg.cn/large/005BYqpggy1fxjclwyc1xg30hs04677p.jpg$image
 
 !凤凰网
@@ -131,6 +143,31 @@
 ||ganjistatic1.com/ng/com/mobile/lib/widget/widget*js$script
 ||ganjistatic1.com/ng/com/mobile/page/milan/base_page*js$script
 ||ganjistatic1.com/ng/com/mobile/page/misc/go_ganji_app/*js$script
+
+!廖雪峰
+||cdn.liaoxuefeng.com/cdn/files/attachments/001530167032294c342ce74629b41ffaebf0ba8528d5f37000/0$image
+||cdn.liaoxuefeng.com/cdn/files/attachments/0015307792921604c694e6f52484b95a172330562ca5537000/0$image
+||cdn.liaoxuefeng.com/cdn/files/attachments/001530779306382ebf382b76d3846248dfbc35f192f35ac000/0$image
+||cdn.liaoxuefeng.com/cdn/files/attachments/00153077933541301079ab48174446984cf31ed5502a66d000/0$image
+||cdn.liaoxuefeng.com/cdn/files/attachments/001530779486466f66c87e0fc794ca79d66bf59cd42a10f000/0$image
+||cdn.liaoxuefeng.com/cdn/files/attachments/0015307797110987f55c6b87fd54083bc390e8ff6b0d60c000/0$image
+||cdn.liaoxuefeng.com/cdn/files/attachments/001530779800744e83fef4eebab401aab4bbe8699af6b51000/0$image
+||cdn.liaoxuefeng.com/cdn/files/attachments/0015307798443236e70647769674722a45bf2635b31c045000/0$image
+||cdn.liaoxuefeng.com/cdn/files/attachments/001530780351101304e7e7655174965b2357ef3512940c4000/0$image
+||cdn.liaoxuefeng.com/cdn/files/attachments/001530780935500c4618c8be6cc48a69260dbb200325124000/0$image
+||cdn.liaoxuefeng.com/cdn/files/attachments/001536417614567276d9787cc5542af9eb9ffe0f5b99f02000/0$image
+
+字幕组
+||dyncdn.me/static/*/js/expla*.js$script
+||lx167.com^
+||u.ctrip.com^
+
+!Twitter
+||platform.twitter.com/widgets.js$script
+
+!Facebook
+||connect.facebook.net/*/all.js$script
+||facebook.com/plugins/follow.php*
 
 !其他
 ||*/abcw168/*.js$script
@@ -245,6 +282,7 @@
 ||m.woaidu.org/upload/xheditor/day_170321/201703210539357093.gif$image
 ||m.xbanzhu.com/js/zhanxian1.js*$script
 ||mbai.cn^$script
+||mgid.com^
 ||mm.9fens.cn/images/bg.png$image
 ||mm323.com^$script
 ||mps.weekslw.com^$script
@@ -335,6 +373,9 @@
 !通用
 ##.banner_ad,.ad,.ads,.advertise,#ad,#ads
 
+!A7字幕
+addic7ed.com###M103396ScriptRootC132912
+
 !百度
 baidu.com###graph-c-download-tip,#share,.blank-frame,.index-list-item.index-list-ec-item,.swipe-backflow-container
 
@@ -376,6 +417,9 @@ people.cn##.m-page-tip
 
 !澎湃新闻
 thepaper.cn###ad1,#moblink_morecomm,#moblink_moreread
+
+!字幕组
+zimuzu.io###output > li:nth-of-type(5)
 
 !其他
 aavbook.club##.bottom, .alert-xz, .breadcrumb +div, div[boxid="heiyanMobileIndexXinshu"], div[boxid="heiyanMobileIndexXinshu"] +div, .footer > div:first-child > a:nth-last-of-type(n+2)
