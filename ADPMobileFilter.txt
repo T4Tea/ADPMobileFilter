@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! title: ADP Mobile Filter [20190116]
-! Version: 20190116
+! title: ADP Mobile Filter [20190118]
+! Version: 20190118
 ! Expires: 7 days
 
 !i阻止规则
@@ -157,7 +157,7 @@
 ||cdn.liaoxuefeng.com/cdn/files/attachments/001530780935500c4618c8be6cc48a69260dbb200325124000/0$image
 ||cdn.liaoxuefeng.com/cdn/files/attachments/001536417614567276d9787cc5542af9eb9ffe0f5b99f02000/0$image
 
-字幕组
+!字幕组
 ||dyncdn.me/static/*/js/expla*.js$script
 ||lx167.com^
 ||u.ctrip.com^
@@ -171,6 +171,18 @@
 
 !其他
 ||*/abcw168/*.js$script
+||www.69kshu.com/images/push.js$script
+||m.rousewu.xyz/js/all.js$script
+||jc.beijinglvyou.net.cn/b80ba7/v@61880!17.js$script
+||www.xswu.com/thc/all-tc.js$script
+||m.kyxsw.cc/wap/tj-mm.js$script
+||m.kyxsw.cc/wap/qijixs/mmwap.js$script
+||m.kyxsw.cc/wap/7cx.js$script
+||m.kyxsw.cc/wap/dr.js$script
+||m.rousewu.xyz/tustyle/jquery.js?v=57$script
+||*/templets/default/js/mydata*.js$script
+||*/images/bqg.js$script
+||*/js/dd.js$script
 ||*/click.php*$script
 ||*/f2e/wap/touch_article_2016/ssr_trunk/dist/images/glod_package_minfy.png$image
 ||*/f2e/wap/touch_comment/images/downloadapp.png$image
