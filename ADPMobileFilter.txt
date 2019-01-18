@@ -20,6 +20,7 @@
 ||bdstatic.com/*/push.js$script
 ||bdstatic.com/*/static/landing-wise/js/share*.js$script
 ||bdstatic.com/*/static/wiseindex/js/lib/invoke/component/firstCard*.js$script
+||bdstatic.com/*/js/block/list.js$script
 ||bdstatic.com/searchbox/icms/searchbox/img/common/openjs/ispeed/*/ispeed.min.js*$script
 ||cbjs.baidu.com^
 ||cpro.baidu.com^
@@ -323,6 +324,7 @@
 ||statcounter.com/*$script
 ||static.geetest.com/static/tools/gt.js$script
 ||static.tianyancha.com/wap-require-js/*$image
+||stats.chinaz.com/zx_g/*.js$script
 ||stats.chinaz.com/gj_g/*$script
 ||sysapr.cn^
 ||tag.crsspxl.com^$script
