@@ -1,3 +1,9 @@
+// ==UserScript==
+// @name 云来阁wap.js
+// @namespace T4tea
+// @match *://m.yunlaige.com/*
+// @grant none
+// ==/UserScript==
 document.writeln("<script src='\/js\/ajax.js'><\/script>");
 
 function checkInput(){ 
