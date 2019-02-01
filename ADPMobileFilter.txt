@@ -393,7 +393,7 @@
 addic7ed.com###M103396ScriptRootC132912
 
 !百度
-baidu.com###graph-c-download-tip,#share,.blank-frame,.index-list-item.index-list-ec-item,.swipe-backflow-container
+baidu.com###graph-c-download-tip,#share,.blank-frame,.index-list-item.index-list-ec-item,.swipe-backflow-container,.qrcodeCon,#qrcode-chunwan
 
 !网易
 163.com##.a_adtemp,.ad_pannel,.banner-a,.big_boom,.doc-footer-wrapper,.fif_year_panel,.more-client
