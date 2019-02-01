@@ -37,7 +37,8 @@
 ||push.zhanzhang.baidu.com^
 ||znsv.baidu.com^
 ||zz.bdstatic.com/linksubmit/push.js$script
-||ss0.bdstatic.com/5aAHeD3nKgcUp2HgoI7O1ygwehsv/media/ch1000/png/pcshouyebgnew.png$image
+||bdstatic.com/5aAHeD3nKgcUp2HgoI7O1ygwehsv/media/ch1000/png/pcshouyebgnew.png$image
+||bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/home/img/qrcode/zbios_efde696.png$image
 
 !谷歌
 ||apis.google.com/_/scs/apps-static/_/js/*$script
