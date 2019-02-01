@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! title: ADP Mobile Filter [20190118]
-! Version: 20190118
+! title: ADP Mobile Filter [20190201]
+! Version: 20190201
 ! Expires: 7 days
 
 !i阻止规则
@@ -37,6 +37,7 @@
 ||push.zhanzhang.baidu.com^
 ||znsv.baidu.com^
 ||zz.bdstatic.com/linksubmit/push.js$script
+||ss0.bdstatic.com/5aAHeD3nKgcUp2HgoI7O1ygwehsv/media/ch1000/png/pcshouyebgnew.png$image
 
 !谷歌
 ||apis.google.com/_/scs/apps-static/_/js/*$script
