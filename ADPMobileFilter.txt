@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! title: ADP Mobile Filter [20190201]
-! Version: 20190201
+! title: ADP Mobile Filter [20190304]
+! Version: 20190304
 ! Expires: 7 days
 
 !i阻止规则
@@ -9,6 +9,7 @@
 ||*/ad-img/*.jpg$image
 ||*/images/ad/*.jpg$image
 ||*/showads.js$script
+||*/js/marticle.js$script
 
 !友盟+ cnzz
 ||cnzz.com^
@@ -387,7 +388,7 @@
 !ii隐藏规则
 
 !通用
-##.banner_ad,.ad,.ads,.advertise,#ad,#ads
+##.banner_ad,.ad,.ads,.advertise,#ad,#ads,#float_ad
 
 !A7字幕
 addic7ed.com###M103396ScriptRootC132912
