@@ -13,6 +13,7 @@
 
 !友盟+ cnzz
 ||cnzz.com^
+||cnzz.net^
 
 !百度
 ||*/hunter/alog/*.min.js*
