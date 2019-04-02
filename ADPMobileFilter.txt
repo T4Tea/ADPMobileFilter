@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! title: ADP Mobile Filter [20190304]
-! Version: 20190304
+! title: ADP Mobile Filter [20190402]
+! Version: 20190402
 ! Expires: 7 days
 
 !i阻止规则
