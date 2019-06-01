@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! title: ADP Mobile Filter [20190402]
-! Version: 20190402
+! title: ADP Mobile Filter [20190601]
+! Version: 20190601
 ! Expires: 7 days
 
 !i阻止规则
@@ -389,6 +389,13 @@
 ||zmzjstu.com/g3/tool*.js$script
 ||zp22.cn^
 ||zwwa.h2pzh.cn^
+||*/js/wap.js$script
+||js.users.51.la^
+||z3uk6.cn^
+||t.nijiua.com^$script
+||m.nongshengyi.cn^$script
+||m.arxnfj14120.cn^$script
+||dg.gze3.cn^$script
 
 !ii隐藏规则
 
@@ -403,6 +410,12 @@ baidu.com###graph-c-download-tip,#share,.blank-frame,.index-list-item.index-list
 
 !网易
 163.com##.a_adtemp,.ad_pannel,.banner-a,.big_boom,.doc-footer-wrapper,.fif_year_panel,.more-client
+3g.163.com##.redpacket-subbox
+3g.163.com##.redpacket-footer
+3g.163.com##.redpacket
+3g.163.com##.redpacket-toolsbar
+3g.163.com###redpacket11093
+3g.163.com##.photo
 
 !新浪
 sina.cn###j_fixAppBtn,#random_da,.cm_ani_out.j_hwIcon,.j_lmt_w,.foot-bar
