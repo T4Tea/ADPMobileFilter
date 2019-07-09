@@ -1,20 +1,16 @@
 [Adblock Plus 2.0]
 ! title: ADP Mobile Filter [20190601]
-! Version: 20190601
-! Expires: 7 days
-
+! Version: 20190710
+! Expires: 30 days
 !i阻止规则
-
 !通用
 ||*/ad-img/*.jpg$image
 ||*/images/ad/*.jpg$image
 ||*/showads.js$script
 ||*/js/marticle.js$script
-
 !友盟+ cnzz
 ||cnzz.com^
 ||cnzz.net^
-
 !百度
 ||*/hunter/alog/*.min.js*
 ||ae.bdstatic.com^$script
@@ -41,7 +37,6 @@
 ||zz.bdstatic.com/linksubmit/push.js$script
 ||bdstatic.com/5aAHeD3nKgcUp2HgoI7O1ygwehsv/media/ch1000/png/pcshouyebgnew.png$image
 ||bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/home/img/qrcode/zbios_efde696.png$image
-
 !谷歌
 ||apis.google.com/_/scs/apps-static/_/js/*$script
 ||apis.google.com/js/plusone.js$script
@@ -53,24 +48,19 @@
 ||pagead2.googlesyndication.com^
 ||ssl.google-analytics.com^
 ||static.googleadsserving.cn^
-
 !Doubleclick
 ||doubleclick.net^
 ||doubleclick.com^
 ||ad.doubleclick.net^
-
 !我要啦51.la
 ||js.51.la^
 ||js.users.51.la^
 ||img.users.51.la^
-
 !淘宝推广
 ||redirect.simba.taobao.com^
 ||p.tanx.com^
-
 !51Yes
 ||51yes.com^
-
 !网易
 ||163.com/data/d/iosTracking/*$script
 ||163.com/service-worker*.js$script
@@ -81,14 +71,12 @@
 ||163.com/wap/special/article_cooper_piapia*$script
 ||analytics.163.com/ntes.js$script
 ||nex.163.com/q*$script
-
 !腾讯
 ||btrace.qq.com/kvcollect*
 ||jqmt.qq.com/cdn_dianjiliu.js*$script
 ||pacaio.match.qq.com/xw/relate*$script
 ||pingjs.qq.com^$script
 ||btrace.video.qq.com/kvcollect*
-
 !新浪
 ||37.sinawap.com^$script
 ||cmnt.sina.cn/aj/v2/counts*$script
@@ -108,22 +96,18 @@
 ||sinajs.cn/open/widget/js/widget/show.js*$script
 ||sinajs.cn/STK/js/gaea*.js*$script
 ||ww1.sinaimg.cn/large/005BYqpggy1fxjclwyc1xg30hs04677p.jpg$image
-
 !凤凰网
 ||ifeng.com^$inline-script
 ||ifengimg.com/*/callNewsApp.min.js$script
 ||ifengimg.com/pdt/cfg/ad/js/*$script
 ||p1.ifengimg.com/fm/js/ifengad/01/fm-ad.js$script
-
 !糗事百科
 ||fzb01.qiushibaike.com^$script
-
 !知乎
 ||pic1.zhimg.com/*|adx4.jpg
 ||www.zhihu.com/api/v4/*/meta_related_topics*
 ||www.zhihu.com/api/v4/*/related-readings*
 ||www.zhihu.com/api/v4/hot_recommendation*
-
 !58同城
 ||58.com/adsys/*$script
 ||58.com/api/advertisement*$script
@@ -137,7 +121,6 @@
 ||58cdn.com.cn/zt/appdown/js/m_invoke_app.js*$script
 ||adshow.58.com^$script
 ||news.58.com/getrolltom*$script
-
 !赶集网
 ||ganji.com/ajax.php?dir=house&module=MiniQrCode*
 ||ganjistatic1.com/att/project/touch/h5_log/tracker*js$script
@@ -148,7 +131,6 @@
 ||ganjistatic1.com/ng/com/mobile/lib/widget/widget*js$script
 ||ganjistatic1.com/ng/com/mobile/page/milan/base_page*js$script
 ||ganjistatic1.com/ng/com/mobile/page/misc/go_ganji_app/*js$script
-
 !廖雪峰
 ||cdn.liaoxuefeng.com/cdn/files/attachments/001530167032294c342ce74629b41ffaebf0ba8528d5f37000/0$image
 ||cdn.liaoxuefeng.com/cdn/files/attachments/0015307792921604c694e6f52484b95a172330562ca5537000/0$image
@@ -161,19 +143,15 @@
 ||cdn.liaoxuefeng.com/cdn/files/attachments/001530780351101304e7e7655174965b2357ef3512940c4000/0$image
 ||cdn.liaoxuefeng.com/cdn/files/attachments/001530780935500c4618c8be6cc48a69260dbb200325124000/0$image
 ||cdn.liaoxuefeng.com/cdn/files/attachments/001536417614567276d9787cc5542af9eb9ffe0f5b99f02000/0$image
-
 !字幕组
 ||dyncdn.me/static/*/js/expla*.js$script
 ||lx167.com^
 ||u.ctrip.com^
-
 !Twitter
 ||platform.twitter.com/widgets.js$script
-
 !Facebook
 ||connect.facebook.net/*/all.js$script
 ||facebook.com/plugins/follow.php*
-
 !其他
 ||*/abcw168/*.js$script
 ||*/click.php*$script
@@ -233,6 +211,7 @@
 ||daima.mubite.cn^
 ||daima1.18tzx.com^
 ||daima123.cc^
+||dg.gze3.cn^$script
 ||disqus.com^$script
 ||disquscdn.com^$script
 ||dugesheying.com^$script
@@ -278,6 +257,7 @@
 ||longtanxs.com/js/baisu.js$script
 ||longtanxs.com^$innerscript
 ||m.81xsw.com/scripts/common.js$script
+||m.arxnfj14120.cn^$script
 ||m.blfyquz.cn^$script
 ||m.cdzdgw.com/js/common.js$script
 ||m.edo5.com^
@@ -290,6 +270,7 @@
 ||m.kyxsw.cc/wap/qijixs/mmwap.js$script
 ||m.kyxsw.cc/wap/tj-mm.js$script
 ||m.lusrg.cn^$script
+||m.nongshengyi.cn^$script
 ||m.nuxyz.cn^$script
 ||m.pieaa.com^
 ||m.pkbrxja.cn^$script
@@ -324,6 +305,7 @@
 ||scorecardresearch.com^$script
 ||secure.quantserve.com^$script
 ||sfxl.com.cn^
+||softwords.dftoutiao.com^$script
 ||ssp.zf313.com/adinfo.htm*$script
 ||statcounter.com/*$script
 ||static.geetest.com/static/tools/gt.js$script
@@ -331,6 +313,7 @@
 ||stats.chinaz.com/gj_g/*$script
 ||stats.chinaz.com/zx_g/*.js$script
 ||sysapr.cn^
+||t.nijiua.com^$script
 ||tag.crsspxl.com^$script
 ||tanx.com^$script
 ||theta.sogoucdn.com/wap/js/wp.js$script
@@ -351,6 +334,7 @@
 ||wjxcdn.com^$script
 ||woxian.top^$script
 ||wtdtjs.com^$script
+||www.55duba.com/files/article/html/gle.js$script
 ||www.69kshu.com/images/push.js$script
 ||www.apkmirror.com/wp-content/plugins/disqus-comment-system/public/js/comment_count.js*$script
 ||www.apkmirror.com^$inline-script
@@ -380,6 +364,7 @@
 ||yunlaige.com/configs/article/tcgg.js$script
 ||ywadf.cn^$script
 ||yzjlsb.com^$script
+||z3uk6.cn^
 ||zeiaa.com/3066.html*$script
 ||zhiyaspa.com^$script
 ||zhywyl.cn^
@@ -389,74 +374,59 @@
 ||zmzjstu.com/g3/tool*.js$script
 ||zp22.cn^
 ||zwwa.h2pzh.cn^
-||*/js/wap.js$script
-||js.users.51.la^
-||z3uk6.cn^
-||t.nijiua.com^$script
-||m.nongshengyi.cn^$script
-||m.arxnfj14120.cn^$script
-||dg.gze3.cn^$script
-
+||boardy.huanqiu.com/smu0/*
+||star-media.cn^
+||smucdn.com^
+||smucdn.com^$script
+||toutiao.qiushibaike.com^
+||i.hao61.net^
+||www.zhihu.com/commercial_api/banners_v3/mobile_banner*
+||epu.1024txt.xyz^
+||*/js/xxchapter.js$script
+||*/js/htmlka.js$script
+||*/js/htmlkb.js$script
+||*/js/htmlkc.js$script
+||*/yd2016js/*.js$script
+||cdn.xxzdpf.com^
+||e.figigl.cn^
+||www.cccwwwr.com^
+||www.oollttqq.com^
+||fjmrxys.com^
+||*/xxgg/booknew.js$script
+||newemailsend.com^
+||fninin.cn^
+||js.passport.qihucdn.com^
+||jspassport.ssl.qhimg.com^
+||movii-loft.cn^
 !ii隐藏规则
-
-!通用
 ##.banner_ad,.ad,.ads,.advertise,#ad,#ads,#float_ad
-
 !A7字幕
 addic7ed.com###M103396ScriptRootC132912
-
-!百度
-baidu.com###graph-c-download-tip,#share,.blank-frame,.index-list-item.index-list-ec-item,.swipe-backflow-container,.qrcodeCon,#qrcode-chunwan
-
-!网易
-163.com##.a_adtemp,.ad_pannel,.banner-a,.big_boom,.doc-footer-wrapper,.fif_year_panel,.more-client
-3g.163.com##.redpacket-subbox
-3g.163.com##.redpacket-footer
-3g.163.com##.redpacket
-3g.163.com##.redpacket-toolsbar
-3g.163.com###redpacket11093
-3g.163.com##.photo
-
-!新浪
+baidu.com###graph-c-download-tip,#share,.blank-frame,.index-list-item.index-list-ec-item,.swipe-backflow-container,.qrcodeCon,#qrcode-chunwan,.page-banner,.providerBanner,#recommend_content
+163.com###redpacket11093,.ad_pannel,.banner-a,.big_boom,.doc-footer-wrapper,.fif_year_panel,.js-wakeupclient.wakeup_client,.more-client,.redpacket,.redpacket-footer,.redpacket-subbox,.redpacket-toolsbar,.uc-fixed-ad-wrap
 sina.cn###j_fixAppBtn,#random_da,.cm_ani_out.j_hwIcon,.j_lmt_w,.foot-bar
-
-!知乎
 zhihu.com##.MBannerAd,.OpenInApp,.ViewAllInappCard,.MobileAppHeader-downloadLink
-
 !微博
 m.weibo.cn##.appTips, .OpenInAppButton
-
-!糗事百科
 qiushibaike.com##.banner, .gif.item, .media.item, .newLickArticle, .newRecommend, .news.item
-
 !起点小说
 m.qidian.com##.jsDownloadLink, .module-ad, .mybook-game-ad
-
-!58同城
 58.com##.call-app-content
-
-!赶集网
 ganji.com###nResume,.detail_tg_download,.house_adv_promotion,.marquee,.sw-ads,.topInvokeApp
-
-!凤凰网
 i.ifeng.com###swiperId
-
 !好123
 m.hao123.com##.bd, .cn_oneline, .imglistWp, .midline
-
 !Taptap
 taptap.com###topBanner
-
 !人民网
 people.cn##.m-page-tip
-
 !澎湃新闻
 thepaper.cn###ad1,#moblink_morecomm,#moblink_moreread
-
-!字幕组
-zimuzu.io###output > li:nth-of-type(5)
-
 !其他
+zimuzu.io###output > li:nth-of-type(5)
 aavbook.club##.bottom, .alert-xz, .breadcrumb +div, div[boxid="heiyanMobileIndexXinshu"], div[boxid="heiyanMobileIndexXinshu"] +div, .footer > div:first-child > a:nth-last-of-type(n+2)
 aileleba.com##.xslink
 mm.9fens.cn###gdd
+##[href="https://dsqp.me/1"]
+##.xslink
+##.ec_wise_ad
