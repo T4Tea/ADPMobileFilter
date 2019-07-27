@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! title: ADP Mobile Filter [20190710]
-! Version: 20190710
+! title: ADP Mobile Filter [20190727]
+! Version: 20190727
 ! Expires: 30 days
 !i阻止规则
 !通用
@@ -399,7 +399,7 @@
 ||jspassport.ssl.qhimg.com^
 ||movii-loft.cn^
 !ii隐藏规则
-##.banner_ad,.ad,.ads,.advertise,#ad,#ads,#float_ad
+##.banner_ad,.ad,.ads,.advertise,#ad,#ads,#float_ad,##.float_middel_ad_bk
 !A7字幕
 addic7ed.com###M103396ScriptRootC132912
 baidu.com###graph-c-download-tip,#share,.blank-frame,.index-list-item.index-list-ec-item,.swipe-backflow-container,.qrcodeCon,#qrcode-chunwan,.page-banner,.providerBanner,#recommend_content
