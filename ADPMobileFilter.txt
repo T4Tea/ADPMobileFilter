@@ -399,20 +399,28 @@
 ||jspassport.ssl.qhimg.com^
 ||movii-loft.cn^
 !ii隐藏规则
-##.banner_ad,.ad,.ads,.advertise,#ad,#ads,#float_ad,##.float_middel_ad_bk
+##.banner_ad,.ad,.ads,.advertise,#ad,#ads,#float_ad,.float_middel_ad_bk
 !A7字幕
 addic7ed.com###M103396ScriptRootC132912
+!百度
 baidu.com###graph-c-download-tip,#share,.blank-frame,.index-list-item.index-list-ec-item,.swipe-backflow-container,.qrcodeCon,#qrcode-chunwan,.page-banner,.providerBanner,#recommend_content
+!网易
 163.com###redpacket11093,.ad_pannel,.banner-a,.big_boom,.doc-footer-wrapper,.fif_year_panel,.js-wakeupclient.wakeup_client,.more-client,.redpacket,.redpacket-footer,.redpacket-subbox,.redpacket-toolsbar,.uc-fixed-ad-wrap
+!新浪
 sina.cn###j_fixAppBtn,#random_da,.cm_ani_out.j_hwIcon,.j_lmt_w,.foot-bar
+!知乎
 zhihu.com##.MBannerAd,.OpenInApp,.ViewAllInappCard,.MobileAppHeader-downloadLink
 !微博
 m.weibo.cn##.appTips, .OpenInAppButton
+!糗事百科
 qiushibaike.com##.banner, .gif.item, .media.item, .newLickArticle, .newRecommend, .news.item
 !起点小说
 m.qidian.com##.jsDownloadLink, .module-ad, .mybook-game-ad
+!58同城
 58.com##.call-app-content
+!赶集网
 ganji.com###nResume,.detail_tg_download,.house_adv_promotion,.marquee,.sw-ads,.topInvokeApp
+!凤凰网
 i.ifeng.com###swiperId
 !好123
 m.hao123.com##.bd, .cn_oneline, .imglistWp, .midline
@@ -423,7 +431,6 @@ people.cn##.m-page-tip
 !澎湃新闻
 thepaper.cn###ad1,#moblink_morecomm,#moblink_moreread
 !其他
-zimuzu.io###output > li:nth-of-type(5)
 aavbook.club##.bottom, .alert-xz, .breadcrumb +div, div[boxid="heiyanMobileIndexXinshu"], div[boxid="heiyanMobileIndexXinshu"] +div, .footer > div:first-child > a:nth-last-of-type(n+2)
 aileleba.com##.xslink
 mm.9fens.cn###gdd
