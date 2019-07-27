@@ -293,6 +293,7 @@
 ||onclickmega.com^$script
 ||open.weibo.com/wblinks.js*$script
 ||p.gouwubang.com^
+||p.nqtnu.cn^$script
 ||parking.zunmi.cn/*$document
 ||people.cn/*/js/ad_list.js*$script
 ||plug.plufdsa.com^$script
@@ -320,6 +321,7 @@
 ||tj.tongjiwo.com/wap.js$script
 ||tttiii.sxyddt.cn^
 ||tu.jstucdn.com/g3/tool*$script
+||js.jstucdn.com/js/ad*$script
 ||tx.lwinl.com^$inline-script
 ||url.3400.org/function-new.js$script
 ||user.tiankongzudui.com^
@@ -399,7 +401,8 @@
 ||jspassport.ssl.qhimg.com^
 ||movii-loft.cn^
 !ii隐藏规则
-##.banner_ad,.ad,.ads,.advertise,#ad,#ads,#float_ad,.float_middel_ad_bk
+##.banner_ad,.ad,.ads,.advertise,#ad,#ads
+##.float_middel_ad_bk,#float_ad
 !A7字幕
 addic7ed.com###M103396ScriptRootC132912
 !百度
