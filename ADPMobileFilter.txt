@@ -146,6 +146,8 @@
 !字幕组
 ||dyncdn.me/static/*/js/expla*.js$script
 ||lx167.com^
+||t.quandangdang.net^
+||tu.jstucdn.com/g3/ad-img/*$image
 ||u.ctrip.com^
 !Twitter
 ||platform.twitter.com/widgets.js$script
