@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! title: ADP Mobile Filter [20191124]
-! Version: 20191124
+! title: ADP Mobile Filter [20200125]
+! Version: 20200125
 ! Expires: 30 days
 ||*/abcw168/*.js$script
 ||*/ad-img/*.jpg$image
@@ -33,6 +33,7 @@
 ||*/xxgg/booknew.js$script
 ||*/yd2016js/*.js$script
 ||09mk.cn^
+||103.200.126.222/tu/15.gif$image
 ||163.com/data/d/iosTracking/*$script
 ||163.com/service-worker*.js$script
 ||163.com/touch/behavior.html*$xmlhttprequest
@@ -48,6 +49,7 @@
 ||362b3d8954d9.oss-cn-hangzhou.aliyuncs.com^$script
 ||36900yh.com^$script
 ||37.sinawap.com^$script
+||50zw.com/wap.js$script
 ||51yes.com^
 ||5321pf.com^$script
 ||58.com/adsys/*$script
@@ -135,6 +137,7 @@
 ||daima1.18tzx.com^
 ||daima123.cc^
 ||dg.gze3.cn^$script
+||dhzw8.com/wap/main.js$script
 ||disqus.com^$script
 ||disquscdn.com^$script
 ||dm.26ksw.com/60026~js*$script
@@ -150,6 +153,7 @@
 ||e.vouky.com^$script
 ||e.zkwsdf.com^$script
 ||eduad.baidu.com^
+||ee.uo69l.cn^
 ||epu.1024txt.xyz^
 ||exosrv.com^
 ||facebook.com/plugins/follow.php*
@@ -198,6 +202,7 @@
 ||image.sozi.cn/images/tj/zt.gif$image
 ||images.pagechoice.net/data/motu_wap/mob.js$script
 ||img.users.51.la^
+||img.yclxrj.top^$image
 ||imglnka.com^$image
 ||interface.sina.cn/auto/inner/getAutoDataByIp.d.json*$script
 ||ipengtai.huanqiu.com/resource/js/base_mobile.js$script
@@ -249,6 +254,8 @@
 ||m.prwx.com/template/wap/script/common.js$script
 ||m.rousewu.xyz/js/all.js$script
 ||m.rousewu.xyz/tustyle/jquery.js?v=57$script
+||m.soducc.com/images/2.gif$image
+||m.soducc.com/js/ppc.js*$script
 ||m.woaidu.org/upload/xheditor/day_170321/201703210539357093.gif$image
 ||m.xbanzhu.com/js/zhanxian1.js*$script
 ||mbai.cn^$script
@@ -346,6 +353,7 @@
 ||wtdtjs.com^$script
 ||ww1.sinaimg.cn/large/005BYqpggy1fxjclwyc1xg30hs04677p.jpg$image
 ||www.55duba.com/files/article/html/gle.js$script
+||www.55shuba.com/files/article/html/gle.js$script
 ||www.69kshu.com/images/push.js$script
 ||www.apkmirror.com/wp-content/plugins/disqus-comment-system/public/js/comment_count.js*$script
 ||www.apkmirror.com^$inline-script
@@ -391,6 +399,7 @@
 ||zmzjstu.com/g3/tool*.js$script
 ||znsv.baidu.com^
 ||zp22.cn^
+||zwdu.com/static/scripts/common.ef20ac56e21b2b05.js$script
 ||zwwa.h2pzh.cn^
 ||zz.bdstatic.com/linksubmit/push.js$script
 ##.banner_ad,.ad,.ads,.advertise,#ad,#ads
@@ -405,11 +414,14 @@ addic7ed.com###M103396ScriptRootC132912
 baidu.com###graph-c-download-tip,#share,.blank-frame,.index-list-item.index-list-ec-item,.swipe-backflow-container,.qrcodeCon,#qrcode-chunwan,.page-banner,.providerBanner,#recommend_content
 ganji.com###nResume,.detail_tg_download,.house_adv_promotion,.marquee,.sw-ads,.topInvokeApp
 i.ifeng.com###swiperId
+m.biqudao.com###chaptercontent > div,[onClick="window.location.href='http://cdn.static.biqudu.la/biquge/app.html'"],##.synopsisArea > div:nth-of-type(3)  
 m.biqudao.com###chaptercontent > p > a[style="text-align:center;color:red;"],##.synopsisArea > div:nth-of-type(3),##div[onClick="window.location.href='http://cdn.static.biqudu.la/kanshu/app.html'"]
 m.booktxt.net##[href="javascript:CurentTime();"]
+m.dhzw8.com###dmkozogbhi,#dthtljei  
 m.hao123.com##.bd, .cn_oneline, .imglistWp, .midline
 m.qidian.com##.jsDownloadLink, .module-ad, .mybook-game-ad
 m.sodu.cc###form_searchTop+a
+m.sos5.cn###cZ115768392094715bottom
 m.weibo.cn##.appTips, .OpenInAppButton
 mm.9fens.cn###gdd
 people.cn##.m-page-tip
